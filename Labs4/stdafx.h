@@ -4,16 +4,18 @@
 //
 
 #pragma once
-
+#define _CRT_SECURE_NO_WARNINGS
 #include "targetver.h"
 #include <omp.h>
+#include <clocale>
 #include <iostream>
-#include <stdio.h>
-#include <tchar.h>
-#include <stdlib.h>
-#include <bitset>
+#include <Windows.h>
 #include <ctime>
-#include <windows.h>
+#include <cwchar>
+#include <clocale>
+#include <memory>
+using namespace std;
+
 
 
 // TODO: Установите здесь ссылки на дополнительные заголовки, требующиеся для программы

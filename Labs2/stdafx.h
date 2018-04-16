@@ -7,13 +7,11 @@
 
 #include "targetver.h"
 #include <omp.h>
-#include <iostream>
 #include <stdio.h>
+#include <clocale>
+#include <iostream>
 #include <tchar.h>
-#include <stdlib.h>
-#include <bitset>
+#include <Windows.h>
 #include <ctime>
-#include <windows.h>
-
 
 // TODO: Установите здесь ссылки на дополнительные заголовки, требующиеся для программы
